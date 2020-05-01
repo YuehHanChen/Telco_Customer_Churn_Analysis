@@ -14,7 +14,7 @@
 
 ## Key Insights for Presentation
 
-> 1. The average LTV of 80% of those who unsubscribed is 750 dollars, and its tenures is near 10 months. On the other hand, the average LTV of top 20% of those who unsubscribed is 4750 dollars, and its tenures is near 50 months. And the ratio by the sum of total LTV by each groups is 750*4 : 4750 = 1 : 1.6, **which suggests we should focus on serving those 20% customers with high LTV**, which brought 60%(1.6/2.6) of our revenue.
+> 1. The average LTV of 80% of those who unsubscribed is 750 dollars, and its tenures is near 10 months. On the other hand, the average LTV of top 20% of those who unsubscribed is 4750 dollars, and its tenures is near 50 months. And the ratio by the sum of total LTV by each groups is 750*4 : 4750 = 1 : 1.6, **which suggests we should focus on serving those 20% customers with high LTV**, which brought 60%(1.6/2.6) of our revenue from leaked customers
 
 > 2. 80%(low LTV) of leaked customers only stayed under 10 months.
 
