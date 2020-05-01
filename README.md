@@ -25,7 +25,7 @@
 > 5. 100% of those who brought 20% of extremely high LTV used and are using internet service.
 
 > 6. In 80% of data of current customers, all the subsets of internet services are equally used by 40% of people.
-Except for 80% of data of current customers, in the rest of the data, streaming movies and streaming TV are two top subsets of internet service people use, and device protection and online backup are the second place, and tech support and online security are both third place, the gaps between places are near 10% of whole data.
+Except for 80% of data of current customers, in the rest of the data, streaming movies and streaming TV are two top subsets of internet service people use, and device protection and online backup are the second place, and tech support and online security are both third place, the gaps between places are near 10% of whole data except for 80% of current customers.
 
 > 7. In 80% of current customers, those whose LTV are more than the average LTV of 80% of leaked customers are 10% more likely to use multiple lines and internet service than the average 80% of current customers.
 
