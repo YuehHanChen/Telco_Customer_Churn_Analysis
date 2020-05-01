@@ -22,7 +22,7 @@
 
 > 4. 81% of those who have and had stayed for more than 50 months tends to use multiple lines.
 
-> 5. 100% of those who have and had stayed for more than 50 months used and are using internet service.
+> 5. 100% of those who brought 20% of extremely high LTV used and are using internet service.
 
 > 6. In 80% of data of current customers, all the subsets of internet services are equally used by 40% of people.
 Except for 80% of data of current customers, in the rest of the data, streaming movies and streaming TV are two top subsets of internet service people use, and device protection and online backup are the second place, and tech support and online security are both third place, the gaps between places are near 10% of whole data.
